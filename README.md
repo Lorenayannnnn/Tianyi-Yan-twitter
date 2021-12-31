@@ -23,7 +23,7 @@ I chose to do a classification, because since we are classifying all tweets base
 5. Perform a simple one hot encoding for the valence target value. (Although there’s only 0s and 4s for valence in the data source file, I still converted 0, 2, and 4 to binary vectors and preprocess all valences as the final labels.)  
 
 ## Post preprocessing: 
-    | Column | Domain |Type
+ ---- | Column | Domain |Type
 :----:|:-----:|:----:|:----:
 Feature|tweet	|array of int (word embeddings)|array of int (word embeddings)
 Target|valence|array of binary int (one-hot encoding)|array of binary int (one-hot encoding)
