@@ -9,7 +9,7 @@
 1. Please put the data source file under the same directory where main.py and load_tweets_data.py are located to runt the project
 2. Install used libraries (Please see reference at the end of this ReadMe file)
 3. Please download GloVe word embeddings (glove.6B.50.txt) from https://nlp.stanford.edu/ and put it directly under the project directory
-4. Run main.py
+4. Run main.py 
 
 
 ## Classification or regression:
