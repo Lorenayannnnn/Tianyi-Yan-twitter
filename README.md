@@ -52,6 +52,10 @@ Target|valence|array of binary int (one-hot encoding)|array of binary int (one-h
 ## Split data: 
 I used train_test_split from sklearn to shuffle and split all data into training and test data, and then split all training data to train and data for validation. The ratio between train, validate, and test data is 3:1:1.
 
+## Evaluation
+1. Metrics: Accuracy
+2. Result: ≈ 80.629% (See screenshot in the word document for further details)
+
 
 ## Reference:
 1. GloVe word embedding: https://nlp.stanford.edu/projects/glove/
